@@ -1,0 +1,31 @@
+{
+  "name": "whatsham",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "hamidsaifi.com",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.4.0",
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "express-fileupload": "^1.4.0",
+    "jsonwebtoken": "^9.0.0",
+    "moment": "^2.29.4",
+    "mysql": "^2.18.1",
+    "mysql-import": "^5.0.21",
+    "mysqldump": "^3.2.0",
+    "nodemailer": "^6.9.1",
+    "openai": "^3.1.0",
+    "pino": "^8.10.0",
+    "randomstring": "^1.2.2",
+    "razorpay": "^2.8.4",
+    "request": "^2.88.2"
+  }
+}
